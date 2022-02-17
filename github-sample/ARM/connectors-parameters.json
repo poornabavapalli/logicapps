@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "westus2"
+            "value": "westeurope"
         },
         "logicAppSystemAssignedIdentityTenantId": {
             "value": "__1__"
@@ -12,7 +12,7 @@
             "value": "__2__"
         },
         "sa_name": {
-            "value": "your-sa-name"
+            "value": "salogicappstandardgh2"
         },
         "connections_azureblob_name": {
             "value":"azureblob"
