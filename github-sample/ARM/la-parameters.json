@@ -3,22 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": { 
         "location": {
-            "value": "westus2"
+            "value": "westeurope"
         },
         "environmentName": {
-            "value": "env-name"
+            "value": "dev"
         },
         "projectName": {
-            "value": "project-name"
+            "value": "logicappstandard"
         },
         "logicAppName": {
-            "value": "la-name"
+            "value": "la-weu-logicappstandard"
         },
         "appServicePlanName": {
-            "value": "asp-name"
+            "value": "asp-logicappstandard"
         },
         "storageName": {
-            "value": "storage-name"
+            "value": "saghlogicappstandard"
         },
         "kind": {
             "value": "StorageV2"
